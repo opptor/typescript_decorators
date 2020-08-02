@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "cd1": "tsc && node dist/example_1.js"
+    "cd1": "tsc && node dist/example_1.js",
+    "cd2": "tsc && node dist/example_2.js"
   },
   "repository": {
     "type": "git",
