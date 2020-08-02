@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "start": "tsc && node dist/index.js"
+    "class_decorator": "tsc && node dist/class_decorator.js"
   },
   "repository": {
     "type": "git",
