@@ -1,0 +1,23 @@
+{
+  "name": "typescript_decorators",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opptor/typescript_decorators.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opptor/typescript_decorators/issues"
+  },
+  "homepage": "https://github.com/opptor/typescript_decorators#readme",
+  "devDependencies": {
+    "tslint": "^5.12.1",
+    "typescript": "^3.3.3"
+  }
+}
